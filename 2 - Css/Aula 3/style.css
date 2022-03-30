@@ -1,0 +1,16 @@
+body {
+    background-image: url(/7678.jpg_860.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.foto {
+    width: 200px;
+}
+
+p {
+    color: #222222;
+}

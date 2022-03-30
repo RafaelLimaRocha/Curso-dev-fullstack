@@ -1,0 +1,16 @@
+body {
+    background-color: #DFDFDF;
+}
+
+.foto-principal{
+    text-align: center;
+}
+.foto {
+    margin: 30px;
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius:50%;
+}  
+p {
+    color: #222222;
+}
